@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=NetQ?_1 Pin=R?-1
+Removed Pin From Net: NetName=Vcc Pin=R?-2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Added Component: Designator=R2(RESAD1100W55L680D260)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25FBF52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MFR-25FBF52-1K/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESAD1100W55L680D260)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25FBF52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MFR-25FBF52-1K/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESAD1100W55L680D260)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25FBF52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MFR-25FBF52-1K/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESAD640W45L370D200
+Add Component: Footprint Not Found RESAD640W45L370D200
+Add Component: Footprint Not Found RESAD640W45L370D200
+Add Component: Footprint Not Found RESAD640W45L370D200
+Added Component: Designator=R?(RESAD1100W55L680D260)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25FBF52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MFR-25FBF52-1K/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESAD640W45L370D200
+Add Component: Footprint Not Found RESAD640W45L370D200
+Add Component: Footprint Not Found RESAD640W45L370D200
+Added Pin To Net: NetName=NetJ2_1 Pin=R1-1
+Added Pin To Net: NetName=NetC2_N Pin=R1-2
+Added Pin To Net: NetName=NetC2_P Pin=R2-1
+Added Pin To Net: NetName=Vcc Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetC2_P Pin=R3-2
+Added Pin To Net: NetName=NetC3_N Pin=R4-1
+Added Pin To Net: NetName=Vcc Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetC3_P Pin=R?-1
+Added Pin To Net: NetName=NetC5_N Pin=R?-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC3_P Pin=R?-2
+Added Pin To Net: NetName=NetC4_N Pin=R?-2
+Added Pin To Net: NetName=NetC5_N Pin=R?-2
+Added Pin To Net: NetName=NetC5_P Pin=R?-2
+Added Pin To Net: NetName=NetQ2_3 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-2
+Added Pin To Net: NetName=Vcc Pin=R?-2
+Added Pin To Net: NetName=Vcc Pin=R?-2
+Added Member To Class: ClassName=PCB_Schematic Member=Component Q? LM7805CT/NOPB
+Added Member To Class: ClassName=PCB_Schematic Member=Component R2 MFR-25FBF52-1K
+Added Member To Class: ClassName=PCB_Schematic Member=Component R3 MFR-25FBF52-1K
+Added Member To Class: ClassName=PCB_Schematic Member=Component R4 MFR-25FBF52-1K
+Added Member To Class: ClassName=PCB_Schematic Member=Component R? R6
+Added Member To Class: ClassName=PCB_Schematic Member=Component R? 1622194-1
+Added Member To Class: ClassName=PCB_Schematic Member=Component R? 1622194-1
+Added Member To Class: ClassName=PCB_Schematic Member=Component R? 1622194-1
+Added Member To Class: ClassName=PCB_Schematic Member=Component R? MFR-25FBF52-1K
+Added Member To Class: ClassName=PCB_Schematic Member=Component R? 1622194-1
+Added Member To Class: ClassName=PCB_Schematic Member=Component R? 1622194-1
+Added Member To Class: ClassName=PCB_Schematic Member=Component R? 1622194-1
+Added Room: Name=PCB_Schematic

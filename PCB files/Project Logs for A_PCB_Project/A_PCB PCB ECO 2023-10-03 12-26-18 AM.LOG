@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetC3_P Pin=R6-1
+Removed Pin From Net: NetName=Vcc Pin=R6-2
+Removed Member From Class: ClassName=PCB_Schematic Member=R6
+Added Component: Designator=R?(RESAD1100W55L680D260)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MFR-25FBF52-1K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MFR-25FBF52-1K/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MFR-25FBF52-1K/Yageo/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_P Pin=R?-1
+Added Pin To Net: NetName=Vcc Pin=R?-2
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R10-1
+Added Net: Name=NetQ5_1
+Added Member To Class: ClassName=PCB_Schematic Member=Component R10 MFR-25FBF52-1K
+Added Member To Class: ClassName=PCB_Schematic Member=Component R? MFR-25FBF52-1K
+Added Room: Name=PCB_Schematic

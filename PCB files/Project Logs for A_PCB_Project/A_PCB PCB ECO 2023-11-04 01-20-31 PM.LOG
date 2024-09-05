@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=NetC1_N New Net Name=Vccc
+Change Net Name : Old Net Name=NetC1_P New Net Name=GND
+Added Room: Name=PCB_Schematic

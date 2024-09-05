@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetQ2_3 Pin=Q5-2
+Removed Pin From Net: NetName=NetC1_P Pin=Q5-3
+Removed Member From Class: ClassName=PCB_Schematic Member=Q5
+Added Pin To Net: NetName=NetC1_P Pin=R10-1

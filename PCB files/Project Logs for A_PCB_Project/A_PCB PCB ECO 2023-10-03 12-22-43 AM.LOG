@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetC5_N Pin=R10-2
+Removed Member From Class: ClassName=PCB_Schematic Member=R10
+Added Room: Name=PCB_Schematic
